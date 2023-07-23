@@ -34,9 +34,9 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/beqarion/3-column-preview-card-component)
+- [Solution](https://github.com/beqarion/fm-js-article-preview-component)
 
-- [Live Site](https://beqarion.github.io/3-column-preview-card-component/)
+- [Live Site](https://beqarion.github.io/fm-js-article-preview-component/)
 
 ## My process
 
